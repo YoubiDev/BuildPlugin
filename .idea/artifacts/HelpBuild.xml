@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HelpBuild">
+    <output-path>$PROJECT_DIR$/../../Plugins/Test/1.8 Test/plugins</output-path>
+    <root id="archive" name="HelpBuild.jar">
+      <element id="module-output" name="BuildPlugin" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

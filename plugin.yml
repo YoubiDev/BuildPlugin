@@ -1,0 +1,3 @@
+name: HelpBuild
+version: 1.0
+main: net.uniqmc.buildplugin.BuildPlugin

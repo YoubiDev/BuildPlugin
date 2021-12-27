@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PhysicsToggle">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Libary_Plugins/PhysicsToggle.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
